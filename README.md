@@ -4,7 +4,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Happy Birthday, My Love — Open When...</title>
-};
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Google Fonts: Cormorant Garamond (Editorial Serif), Caveat (Handwritten), Plus Jakarta Sans (Clean UI) -->
@@ -294,7 +293,7 @@
                 <svg class="w-3.5 h-3.5 text-[#F4A6B8]" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2L14.4 9.6L22 12L14.4 14.4L12 22L9.6 14.4L2 12L9.6 9.6L12 2Z" />
                 </svg>
-                <span>A Time Capsule For You</span>
+                <span>A Digital Time Capsule For You</span>
             </div>
             
             <!-- CUSTOMIZE HER NAME / TITLE HERE -->
@@ -363,7 +362,7 @@
             <!-- Scrollable Modal Content -->
             <div class="letter-scroll overflow-y-auto p-6 sm:p-10 space-y-6">
                 
-                <!-- Secret Passcode Gate (Only shown for Envelope 6 if locked) -->
+                <!-- Secret Passcode Gate (Only shown for Envelope #6 if locked) -->
                 <div id="passcode-gate" class="hidden text-center py-8 px-4 space-y-5">
                     <div class="w-16 h-16 mx-auto rounded-full bg-[#FFF1F3] border border-[#D4AF37]/40 flex items-center justify-center text-2xl shadow-inner">
                         🔒
